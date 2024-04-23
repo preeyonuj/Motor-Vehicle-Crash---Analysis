@@ -28,10 +28,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">NYC Motor Crash Analysis</h3>
 
   <p align="center">
-    project_description
+    A data pipeline to process Motor Vehicle data across the boroughs in New York City and provide insights on a dashboard.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
